@@ -2,7 +2,7 @@
 
 ## 介绍
 
-jingdong-books是一个基于Scrapy-redis的机票爬虫，是通过京东图书分类界面爬取京东所有的图书信息
+jingdong-books是一个基于Scrapy-redis的分布式爬虫，是通过京东图书分类界面爬取京东所有的图书信息
 
 
 
